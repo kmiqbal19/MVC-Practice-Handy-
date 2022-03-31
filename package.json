@@ -1,0 +1,14 @@
+{
+  "name": "javascript-modules",
+  "version": "1.0.0",
+  "description": "practice only",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "author": "iqbal",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.4.0"
+  }
+}
